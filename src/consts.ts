@@ -32,6 +32,8 @@ export const HeaderLinks = [
   { href: "/category/One/1/", title: "One" },
   { href: "/category/Two/1/", title: "Two" },
   { href: "/category/Three/1/", title: "Three" },
+  { href: "/category/DH/1/", title: "DH" },
+  { href: "/category/digital-humanities/1/", title: "Digital Humanities" },
 ];
 
 // Footer Links, src/components/Footer.astro
