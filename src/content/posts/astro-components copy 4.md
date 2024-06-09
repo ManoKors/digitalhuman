@@ -3,7 +3,7 @@ title: You can spot an Astro component
 slug: components3
 description: the basic building blocks of any Astro project
 category:
-  - One
+  - Digital Humanities
 tags:
   - Tailwind
   - Astro
