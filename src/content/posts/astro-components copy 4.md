@@ -3,7 +3,7 @@ title: You can spot an Astro component
 slug: components3
 description: the basic building blocks of any Astro project
 category:
-  - Digital Humanities
+  - DH
 tags:
   - Tailwind
   - Astro
@@ -11,7 +11,7 @@ tags:
 pubDate: 2023-09-01
 cover: https://images.unsplash.com/photo-1502239608882-93b729c6af43?w=1960&h=1102&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YmxhY2t8ZW58MHwwfDB8fHwy
 coverAlt: AstroVerse-Aliases
-author: VV
+author: Mano Kors
 ---
 
 **Astro components** are the basic building blocks of any Astro project. They are HTML-only templating components with no client-side runtime. You can spot an Astro component by its file extension: `.astro`.
